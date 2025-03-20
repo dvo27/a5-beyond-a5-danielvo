@@ -17,7 +17,6 @@
     A-frame documentation:
         https://aframe.io/docs/1.2.0/introduction/interactions-and-controllers.html#events
         https://aframe.io/docs/1.7.0/introduction/entity-component-system.html
-        
 
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
